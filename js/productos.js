@@ -1,4 +1,4 @@
-/* Esta lista podría ser reemplazada por la respuesta de un backend */
+
 const productos= [
   {
     id:1,
